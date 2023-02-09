@@ -1,0 +1,13 @@
+
+>
+java:S1604*"(Make this anonymous inner class a lambda(Êó¦–
+C
+java:S16042"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+C
+java:S1604&"(Make this anonymous inner class a lambda(é¦¿ûÿÿÿÿ
+q
+java:S1450"[Remove the "barCodeImage" field and declare it as a local variable in the relevant methods.(€ãÌû
+l
+java:S1450"VRemove the "btnScan" field and declare it as a local variable in the relevant methods.(É£ô¡
+—
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ£—
